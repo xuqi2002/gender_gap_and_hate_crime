@@ -10,7 +10,6 @@
 library(haven)
 library(readr)
 
-
 #### Data Cleaning (crime) ####
 data <- read_dta("inputs/data/crime.dta")
 data_top5 <- head(data, 5)
