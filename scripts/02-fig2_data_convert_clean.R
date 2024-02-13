@@ -2,7 +2,7 @@
 # Purpose: Converting and cleaning survey.dta file to Fig_2.csv file for Figure 2 
 # Author: Yixuan Yao
 # Date: 12 February 2024
-# Contact: 
+# Contact: yixuan.yao@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: none
 
